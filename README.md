@@ -17,9 +17,9 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex;">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=samuelkepler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkepler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=samuelkepler&theme=nightowl&hide_border=false&layout=compact" />
+  <img height=120 src="https://github-readme-stats.vercel.app/api?username=samuelkepler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height=120 src="https://github-readme-streak-stats.herokuapp.com/?user=samuelkepler&theme=nightowl&hide_border=false&layout=compact" />
+  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkepler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
