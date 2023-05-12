@@ -1,5 +1,5 @@
 # 💫 About Me:
-</>-💻Computer engineering<br>– 📚Fighting for access to information <br>–🥛 Thirsty for knowledge and innovation <br>– 🔍looking for help  with A.I  <br>🗯️ask me about world.<br>-🪶Product Design in a dev world<br>
+</>-💻Computer engineering<br>– 📚Fighting for access to information <br>–🥛 Thirsty for knowledge and innovation <br>– 🔍looking for help  with A.I  <br>–🗯️ ask me about world.<br>-🪶Product Design in a dev world<br>
 
 
 ## 🌐 Socials:
